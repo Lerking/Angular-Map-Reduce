@@ -5,7 +5,7 @@
 
 ```powershell
 
-$url = "https://superusers-kursus@dev.azure.com/superusers-kursus/Angular-Basics/_git/angular-10-2-0-Map-Reduce.git"
+$url = "https://github.com/Lerking/Angular-Map-Reduce.git"
 
 git clone $url demoApp
 cd demoApp
